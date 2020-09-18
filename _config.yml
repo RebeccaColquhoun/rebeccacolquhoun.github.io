@@ -1,1 +1,12 @@
 
+#Site settings
+Title: Rebecca Colquhoun
+Email: Rebecca.colquhoun@univ.ox.ac.uk
+Description: Rebecca Colquhoun's personal website
+twitter_username: RebeccaC13
+
+#Build settings
+Markdown: kramdown
+Theme: Slate
+Gems:
+ - Jekyll-feed
