@@ -1,2 +1,2 @@
-# rebeccacolquhoun.github.io
+# Rebecca Colquhoun
 My personal website
