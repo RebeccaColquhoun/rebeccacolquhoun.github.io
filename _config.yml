@@ -11,4 +11,4 @@ Theme: Slate
 Gems:
  - Jekyll-feed
 
-theme: jekyll-theme-cayman
+theme: minima
