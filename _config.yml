@@ -10,3 +10,5 @@ Markdown: kramdown
 Theme: Slate
 Gems:
  - Jekyll-feed
+
+theme: jekyll-theme-cayman
