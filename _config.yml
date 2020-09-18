@@ -4,6 +4,7 @@ Title: Rebecca Colquhoun
 Email: Rebecca.colquhoun@univ.ox.ac.uk
 Description: Rebecca Colquhoun's personal website
 twitter_username: RebeccaC13
+Base-url: rebeccacolquhoun.github.io
 
 #Build settings
 Markdown: kramdown
