@@ -26,10 +26,12 @@ A-Level's (2016)
 * Mathematics -- A
 * Further Mathematics -- A
 * EPQ -- A* 
+
 AS Levels (2015)
 * Computing -- A
 
 GCSE's (2014)
-10 A* (Mathematics, Chemistry, Physics, Biology, Computing, Astronomy, French, German, English Language, English Literature), 1A (Geography)
+* 10 A* (Mathematics, Chemistry, Physics, Biology, Computing, Astronomy, French, German, English Language, English Literature), 1A (Geography)
+* FSMQ - A
 
 
