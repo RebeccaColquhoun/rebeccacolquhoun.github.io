@@ -1,3 +1,8 @@
+---
+layout: page
+title: Title
+---
+
 I completed my integrated masters in Earth Sciences at the University of Oxford in June 2020.
 
 **Undergraduate**
