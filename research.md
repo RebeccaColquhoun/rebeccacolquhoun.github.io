@@ -1,5 +1,5 @@
 ---
+layout: page
 title:Research
-url: /research/
 ---
 My research
