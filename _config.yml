@@ -2,13 +2,13 @@
 #Site settings
 title: Rebecca Colquhoun
 email: Rebecca.colquhoun@univ.ox.ac.uk
-description: Rebecca Colquhoun's personal website
+#description: Rebecca Colquhoun's personal website
 twitter_username: RebeccaC13
 base-url: rebeccacolquhoun.github.io
 site-name: Rebecca Colquhoun
 site.name: Rebecca Colquhoun
 site.title: Rebecca Colquhoun
-name: Rebecca Colquhoun
+#name: Rebecca Colquhoun
 
 #Build settings
 Markdown: kramdown
