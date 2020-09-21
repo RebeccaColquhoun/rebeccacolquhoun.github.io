@@ -6,6 +6,9 @@ Description: Rebecca Colquhoun's personal website
 twitter_username: RebeccaC13
 Base-url: rebeccacolquhoun.github.io
 site-name: Rebecca Colquhoun
+site.name: Rebecca Colquhoun
+site.title: Rebecca Colquhoun
+Name: Rebecca Colquhoun
 
 #Build settings
 Markdown: kramdown
