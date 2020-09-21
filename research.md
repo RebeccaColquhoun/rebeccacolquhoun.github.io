@@ -1,5 +1,5 @@
 ---
 layout: page
-title: research
+title: Research
 ---
 My research surrounds
