@@ -12,7 +12,7 @@ base-url: rebeccacolquhoun.github.io
 
 #Build settings
 Markdown: kramdown
-theme: Slate
+theme: academic
 gems:
  - Jekyll-feed
 
