@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Service
+title: Service + EDI
 ---
 
 I am passionate about equality, diversity and inclusion and served on the Oxford Students Union Disability Campaign for 3 years.
 + April 2019 – present – Treasurer 
 +	April 2017 – April 2019 – Communications Officer 
 + January 2017 – April 2017 – Socials Officer
+
+I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544)
 
 Within a departmental setting, I:
 +	November 2019 – Convened a focus group on Equality, Diversity and Wellbeing for fellow undergraduates.
