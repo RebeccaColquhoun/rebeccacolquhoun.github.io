@@ -1,6 +1,6 @@
 Welcome to my website
 
-<a href="url"><img src="Images/me cropped.png" height="450 px" width="450 px" style="border-radius:50%" align='Left'></a>
+<a href="url"><img src="Images/me cropped.png" height="450 px" width="450 px" style="border-radius:50%" align='Left' hspace = "50", vspace ="50"></a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dapibus consequat venenatis. Donec quis tempus elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi tempus rhoncus molestie. Nulla imperdiet consequat justo, consequat rhoncus nisl sagittis sed. Nam in placerat nulla. Donec vehicula, turpis non faucibus vehicula, mi justo lacinia mi, quis pellentesque ipsum nunc in est. Praesent pharetra ante sodales lectus ultrices, a laoreet leo tempor. Suspendisse at lectus sit amet ligula facilisis laoreet. Nulla sit amet luctus neque. Integer in rutrum turpis, fringilla sollicitudin dui. Pellentesque lacinia, mauris vel laoreet sollicitudin, magna augue interdum enim, tempor fermentum lorem purus vitae arcu.
 
