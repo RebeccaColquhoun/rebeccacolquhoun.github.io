@@ -4,17 +4,15 @@ title: Research
 ---
 My research interests surround earthquake nucleation and seismic hazard. During my DPhil, I hope to investigate earthquake determinism and its impact on hazard mititigation particularly Earthquake Early Warning Systems.  
 
-**Extended Work**
+**Extended Work from Undergraduate**
 * Masters Project (October 2019 - May 2020)
   * I used foreshock-aftershock ratios found from Phase Coherence to examine to what extent external processes are involved in Earthquake Nucleation. 
-  * Abstract:
-    * "There are two main models of earthquake nucleation: deterministic and stochastic. If ex- ternal processes are involved in nucleation, such as aseismic slip or pore pressure changes, we call this deterministic. Whereas if nucleation follows a cascade where one earthquake triggers the next, and one of these is the mainshock then this is stochastic. I applied phase coherence methods to detect foreshocks and aftershocks which are close in space and time to the mainshock and I was able to detect earthquakes down to M1. I found that on the Hikurangi subduction zone, New Zealand, there were far fewer foreshocks than expected from a stochastic nucleation and thus external processes must be involved in earthquake nucleation." 
+  * Supervised by Prof. Jessica Hawthorne
+  * Publication forthcoming
 
 * 3rd Year Extended Essay (January 2019 – April 2019)
   * Wrote a 4000-word, review style essay entitled: Earthquake Early Warning Systems: are they the panacea they are billed as?
   * Conducted entirely independently
-  * Abstract:
-    * "Earthquake early warning (EEW) systems act to warn users of ground-shaking before it is felt at that location. This allows reactive measures to be taken such as “drop, cover, and hold-on”, evacuation and shutting down of industrial units, potentially saving many lives. EEW can use a variety of algorithms which have varying alert lead-times and have been implemented around the world. EEW systems are often viewed as a panacea for saving lives in earthquakes, but other mitigation measures exist and may be more appropriate and effective in certain settings. Two settings where EEW systems have been rolled-out are Mexico and California, and these will be reviewed before considering if an EEW system is the most effective earthquake mitigation measure for Nepal."
 
 * 3rd year Independent Research Project (June 2018 - August 2018)
   * A six-week independent project investigating polygonal faults of the Vøring Basin, and the effect of these faults on the Opal-A to Opal-CT diagenetic horizon. Included mapping horizons in 3D seismic reflection data in Petrel, taking detailed throw measurements across faults, and producing contoured 3D fault throw maps.
