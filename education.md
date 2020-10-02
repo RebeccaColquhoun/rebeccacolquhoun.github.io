@@ -12,6 +12,7 @@ I am now reading for a DPhil in Earth Sciences as part of the NERC DTP in Enviro
 **Undergraduate**
 
 MEarthSci Earth Sciences, University of Oxford (2016-2020)
+
 ***Results***
 * Averaged 74.1% in the First Public Examination, therefore being granted an academic prize by the college and being made a Scholar.
 * Averaged 73.3% in Second Year Examinations
@@ -21,6 +22,7 @@ MEarthSci Earth Sciences, University of Oxford (2016-2020)
 * Averaged 74.8% in Fourth Year
   * Masters’ Project – Investigating earthquake precursors: can they help to constrain earthquake nucleation processes? Applied phase coherence methods using Linux based systems and Python 3. 78%
   * Fourth Year Courses: Topics in Volcanology (67%); Rock and Palaeomagnetism (70%); Planetary Chemistry (70%); Structure and Dynamics of the Earth’s Mantle (76%). 
+
 ***Prizes and Scholarships***
 * Awarded the Schlumberger Prize for outstanding performance in Geophysics (June 2020).
 * Awarded a Geological Remote Sensing Group travel grant to annual conference at ESRIN in Italy (December 2019).  
