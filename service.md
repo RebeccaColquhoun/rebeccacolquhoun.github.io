@@ -18,7 +18,7 @@ Within a departmental setting, I:
 + Oct 2016 – June 2020 – was elected as the JCC(U) (Joint Consultative Committee Undergraduate) rep
 
 At Oxford, departments fall into groups which are known as divisions. I was appointed as the taught students' representative for 1.5 years, representing ~ 4000 students.
-+ April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees and Library committee to ensure the student voice is heard.  
++ April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard.  
 
 I have worked for a variety of outreach initiatives:
 * Mentor, PROJECT ACCESS (2018-2020)
