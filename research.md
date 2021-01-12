@@ -19,7 +19,7 @@ My research interests surround earthquake nucleation and seismic hazard. During 
   * Conducted within the Shell Laboratory, University of Oxford
   * Supervised by Prof. Joe Cartwright
   
-**Research Assistanceships**
+**Research Assistantships**
 * Undergraduate Research Assistant, University of Oxford (June - July 2019) 
   * A six-week research assistantship investigating active tectonics in the Alboran Sea using 2D seismic reflection data in Petrel. Included detailed mapping of the seabed and other horizons, independently incorporating well-log data. Identified data anomalies and made quality control checks on data to ensure consistency, applying corrections where needed. 
   * Invited to work under Prof. Richard Walker and Dr Claudia Bertoni, after my 3rd Year Independent Research Project.
