@@ -2,7 +2,7 @@
 layout: page
 title: Service + EDI
 ---
-
+## Positions of Responsibility
 I am passionate about equality, diversity and inclusion and served on the Oxford Students Union Disability Campaign for 3 years.
 + April 2019 – present – Treasurer 
 +	April 2017 – April 2019 – Communications Officer 
@@ -19,7 +19,7 @@ Within a departmental setting, I:
 
 At Oxford, departments fall into groups which are known as divisions. I was appointed as the taught students' representative for 1.5 years, representing ~ 4000 students.
 + April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard.  
-
+## Outreach
 I have worked for a variety of outreach initiatives:
 * Mentor, PROJECT ACCESS (2018-2020)
   * Mentored two students through the university application process, helping them make course and university decisions. 
