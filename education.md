@@ -9,6 +9,10 @@ I completed my integrated masters in Earth Sciences at the University of Oxford 
 
 I am now reading for a DPhil in Earth Sciences as part of the NERC DTP in Environmental Research. I am funded by a NERC studentship alongside a prestigious Oxford-Radcliffe Scholarship. Specifics of my research are forthcoming, please see the [research](/research) page for more information about my experience and interests. 
 
+***Prizes and Scholarships***
+* Oxford-Radcliffe Graduate Scholarship
+* Seismological Society of America Travel Grant for 2021 Annual Meeting
+
 **Undergraduate**
 
 MEarthSci Earth Sciences, University of Oxford (2016-2020)
