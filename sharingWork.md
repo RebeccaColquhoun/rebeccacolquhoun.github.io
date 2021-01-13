@@ -9,3 +9,4 @@ I appeared on a panel at AGU 2020 talking about racial inclusion and diversity e
 
 I spoke about my plans for my DPhil project at the COMET Student Meeting in January 2021. 
 
+I have been awarded a Seismological Society of America Travel Grant to present my work from my masters' at the 2021 Annual Meeting. This covers the full cost of registration. 
