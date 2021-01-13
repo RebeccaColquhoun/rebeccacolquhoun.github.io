@@ -5,9 +5,9 @@ title: Sharing my work
 
 ***Academic Conferences***
 
-* I spoke about my plans for my DPhil project at the COMET Student Meeting in January 2021. 
+* I presented my plans for my DPhil project at the 2021 COMET Student Meeting. (January 2021)
 
-* I have been awarded a Seismological Society of America Travel Grant to present my work from my masters' at the 2021 Annual Meeting. This covers the full cost of registration. (Meeting: April 2021).
+* I have been awarded a Seismological Society of America Travel Grant to present my work from my masters' at the 2021 Annual Meeting. This covers the full cost of registration. (Award: January 2021, Meeting: April 2021).
 
 
 ***Wider engagement and EDI work***
