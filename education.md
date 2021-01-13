@@ -13,6 +13,8 @@ I am now reading for a DPhil in Earth Sciences as part of the NERC DTP in Enviro
 * Oxford-Radcliffe Graduate Scholarship
 * Seismological Society of America Travel Grant for 2021 Annual Meeting
 
+
+
 **Undergraduate**
 
 MEarthSci Earth Sciences, University of Oxford (2016-2020)
@@ -32,6 +34,7 @@ MEarthSci Earth Sciences, University of Oxford (2016-2020)
 * Awarded a Geological Remote Sensing Group travel grant to annual conference at ESRIN in Italy (December 2019).  
 * Awarded an Academic Prize from Worcester College for performance in the first Public Examination (June 2017).
 * Made a scholar of Worcester College for outstanding academic performance (June 2017).
+
 
 **School**
 
