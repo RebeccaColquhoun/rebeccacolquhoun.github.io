@@ -11,14 +11,23 @@ I am passionate about equality, diversity and inclusion and served on the Oxford
 I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544)
 
 Within a departmental setting, I:
-+	November 2019 – Convened a focus group on Equality, Diversity and Wellbeing for fellow undergraduates.
++	January 2021 – present – graduate student rep on Athena Swan self-assessement team
++	October 2020 – present – served as graduate rep on department Workplace and Equality committee. 
++	October 2020 – present – JCC(G) (Joint Consultative Committee Graduate) rep.
++	November 2019 – Convened a focus group on Equality, Diversity and Wellbeing for fellow undergraduates, which has fed into Athena Swan.
 +	April 2018 – June 2020 – served as undergraduate rep on department Workplace and Equality committee. 
 +	June 2019 – Developed and ran the first departmental teaching awards to reward the best lecturer, demonstrator and tutor in the Department of Earth Sciences. Invited to run the awards again in June 2020.  
 + April 2017 – April 2019 – served as undergraduate rep on Earth Sciences teaching committee, which has overall view on teaching provision in the department including courses, lectures and outreach.
-+ Oct 2016 – June 2020 – was elected as the JCC(U) (Joint Consultative Committee Undergraduate) rep
++ Oct 2016 – June 2020 – was elected as the JCC(U) (Joint Consultative Committee Undergraduate) rep.
+
+I also represent NERC DTP students within the Oxford DTC (a group of similar doctoral programs). 
 
 At Oxford, departments fall into groups which are known as divisions. I was appointed as the taught students' representative for 1.5 years, representing ~ 4000 students.
-+ April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard.  
++ October 2020 – present – Earth Sciences representative on JGCF (Joint Graduate Consultative Forum), informing the Graduate MPLS rep on issues affecting Earth Sciences students
++ October 2020 – present – Graduate student representative on MPLS EDI steering group. Member of the LGBTQ+ and disability working groups. 
++ April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard. 
+
+Within my college, I was elected the disabled students and accessibility officer in February 2021.
 
 ## Outreach
 I have worked for a variety of outreach initiatives:
