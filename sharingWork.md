@@ -9,7 +9,7 @@ title: Sharing my work
 
 * I have been awarded a Seismological Society of America Travel Grant to present my work from my masters' at the 2021 Annual Meeting. This covers the full cost of registration. (Award: January 2021, Meeting: April 2021). Talk title: _Investigating Earthquake Nucleation: what do foreshocks, aftershocks and sequences tell us?_
 
-* I gave a poster presentation at the 2021 Student Seismology Workshop, _Detecting Earthquake Nucleation with Phase Coherence_
+* I gave a poster presentation at the 2021 Student Seismology Workshop. Poster title: _Detecting Earthquake Nucleation with Phase Coherence_
 
 ***Wider engagement and EDI work***
 * I presented my masters work at a [TETHYS seminar](https://www.tethys-talks.com), which is a seminar series aimed at an early undergraduate level audience. You can watch a recording of this talk on youtube [here](https://youtu.be/kzC1ehpVHM4?t=1561) (starts at 26:01). (November 2020). 
