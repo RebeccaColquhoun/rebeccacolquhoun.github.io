@@ -2,9 +2,12 @@
 layout: page
 title: Service + EDI
 ---
+## Talks and Panels
+I convened and chaired a panel on _LGBTQ+ Voices and Communities: Enabling Inclusivity in Environmental Research_ for the Oxford NERC DTP in Environmental Research. This involved contacting and engaging three speakers, coming up with questions, engaging students and ensuring they felt comfortable contributing. I then chaired the 1.5 hour panel. 
+
 ## Positions of Responsibility
 I am passionate about equality, diversity and inclusion and served on the Oxford Students Union Disability Campaign for 3 years.
-+ April 2019 – present – Treasurer 
++ April 2019 – June 2020 – Treasurer 
 +	April 2017 – April 2019 – Communications Officer 
 + January 2017 – April 2017 – Socials Officer
 
