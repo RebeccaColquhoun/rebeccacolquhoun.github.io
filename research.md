@@ -4,6 +4,9 @@ title: Research
 ---
 My research interests surround earthquake nucleation and seismic hazard. During my DPhil, I hope to investigate earthquake determinism and its impact on hazard mititigation particularly Earthquake Early Warning Systems.  
 
+**Overview of DPhil work**
+I’m interested in the mechanics of earthquakes, and particularly at what stage the final magnitude of an earthquake is distinguishable. This idea, called earthquake determinism, is controversial, with some people thinking that the earthquake ‘knows’ its magnitude within the first few seconds of rupture, and others saying that rupture needs to be complete. To think about this problem, I’m using information we can glean from seismograms of earthquakes all around the world. I then want to think about what implications earthquake determinism (or non-determinsm) has for our understanding of how earthquakes happen.
+
 **Extended Work from Undergraduate**
 * Masters Project (October 2019 - May 2020)
   * I used foreshock-aftershock ratios found from Phase Coherence to examine to what extent external processes are involved in Earthquake Nucleation. 
