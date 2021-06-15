@@ -7,7 +7,7 @@ title: Sharing my work
 
 * I presented my plans for my DPhil project at the 2021 COMET Student Meeting. (January 2021)
 
-* I have been awarded a Seismological Society of America Travel Grant to present my work from my masters' at the 2021 Annual Meeting. This covers the full cost of registration. (Award: January 2021, Meeting: April 2021). Talk title: _Investigating Earthquake Nucleation: what do foreshocks, aftershocks and sequences tell us?_
+* I have been awarded a Seismological Society of America Travel Grant to present the work from my masters' at the 2021 Annual Meeting. This covers the full cost of registration. (Award: January 2021, Meeting: April 2021). Talk title: [_Investigating Earthquake Nucleation: what do foreshocks, aftershocks and sequences tell us?_](https://www.youtube.com/watch?v=eLF_2_-zKck) I was awarded a [Student Presentation Award] (https://www.seismosoc.org/awards/student-awards/) for my talk. 
 
 * I gave a poster presentation at the 2021 Student Seismology Workshop. Poster title: _Detecting Earthquake Nucleation with Phase Coherence_
 
