@@ -13,6 +13,7 @@ I am now reading for a DPhil (PhD) in Earth Sciences as part of the NERC DTP in 
 * Oxford-Radcliffe Graduate Scholarship.
 * Seismological Society of America [Travel Grant](https://www.seismosoc.org/annual-meeting/ssa-2021-travel-grants-announced/) for 2021 Annual Meeting (one of 14 awardees).
 * Seismological Society of America [Student Presentation Award](https://www.seismosoc.org/awards/student-awards/) for my talk at the 2021 meeting (one of 19 awardees).
+* Department of Earth Sciences EEDI prize
 
 
 
