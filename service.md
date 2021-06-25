@@ -5,7 +5,7 @@ title: Service + EDI
 ## Talks and Panels
 I convened and chaired a panel on _LGBTQ+ Voices and Communities: Enabling Inclusivity in Environmental Research_ for the Oxford NERC DTP in Environmental Research. This involved contacting and engaging three speakers, coming up with questions, engaging students and ensuring they felt comfortable contributing. I then chaired the 1.5 hour panel. 
 
-I co-led a departmental group following the (URGE)[urgeoscience.org] curriculum, including reading on anti-racism and producing a number of 'deliverables' (policies, memos, white-papers and resources) for the department. As part of this I facilitated fortnightly discussion sessions for a group from across the department including undergraduates, postgraduates, post-docs and faculty. For this work I was awarded the departmental EEDI prize. 
+I co-led a departmental group following the [URGE](urgeoscience.org) curriculum, including reading on anti-racism and producing a number of 'deliverables' (policies, memos, white-papers and resources) for the department. We adjusted the curriculum to ensure that it was relevant to our UK based department. As part of this I facilitated fortnightly discussion sessions for a group from across the department including undergraduates, postgraduates, post-docs and faculty. For this work I was awarded the departmental EEDI prize. 
 
 ## Positions of Responsibility
 I am passionate about equality, diversity and inclusion and served on the Oxford Students Union Disability Campaign for 3 years.
