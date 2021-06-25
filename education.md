@@ -15,7 +15,10 @@ I am now reading for a DPhil (PhD) in Earth Sciences as part of the NERC DTP in 
 * Seismological Society of America [Student Presentation Award](https://www.seismosoc.org/awards/student-awards/) for my talk at the 2021 meeting (one of 19 awardees).
 * Department of Earth Sciences EEDI prize
 
-
+***Teaching***
+The Oxford undergraduate course has a large component of small group teaching in tutorials.
+* Tutorials in 1st year Mathematics (fundamentals of calculus, differential equations, linear algebra and scientific computing)
+* Tutorials in 1st year Physics (mechanics and thermodynamics)
 
 ## Undergraduate
 
