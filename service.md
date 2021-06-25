@@ -5,13 +5,15 @@ title: Service + EDI
 ## Talks and Panels
 I convened and chaired a panel on _LGBTQ+ Voices and Communities: Enabling Inclusivity in Environmental Research_ for the Oxford NERC DTP in Environmental Research. This involved contacting and engaging three speakers, coming up with questions, engaging students and ensuring they felt comfortable contributing. I then chaired the 1.5 hour panel. 
 
+I co-led a departmental group following the URGE curriculum, including reading on anti-racism and producing a number of 'deliverables' (policies, memos, white-papers and resources) for the department. As part of this I facilitated fortnightly discussion sessions for a group from across the department including undergraduates, postgraduates, post-docs and faculty. For this work I was awarded the departmental EEDI prize. 
+
 ## Positions of Responsibility
 I am passionate about equality, diversity and inclusion and served on the Oxford Students Union Disability Campaign for 3 years.
 + April 2019 – June 2020 – Treasurer 
 +	April 2017 – April 2019 – Communications Officer 
 + January 2017 – April 2017 – Socials Officer
 
-I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544)
+I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
 
 Within a departmental setting, I:
 +	January 2021 – present – graduate student rep on Athena Swan self-assessement team
