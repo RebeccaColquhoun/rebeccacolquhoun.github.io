@@ -35,6 +35,10 @@ At Oxford, departments fall into groups which are known as divisions. I was appo
 Within my college, I was elected the disabled students and accessibility officer in February 2021.
 
 ## Outreach
+Outreach Resources
+* You can see me talking about getting into Earth Sciences [here](https://youtu.be/0d5puC8o-H0). 
+* I wrote about the application process for Oxford Earth Sciences [here](https://carambalache.wordpress.com/2016/09/18/applying-to-oxford-earth-sciences/)
+
 I have worked for a variety of outreach initiatives:
 * Mentor, PROJECT ACCESS (2018-2020)
   * Mentored two students through the university application process, helping them make course and university decisions. 
