@@ -11,6 +11,8 @@ title: Sharing my work
 
 * I gave a poster presentation at the 2021 Student Seismology Workshop. Poster title: _Detecting Earthquake Nucleation with Phase Coherence_
 
+* I gave a short talk (3 minutes) at the 2021 Wessex Congress. Talk title: [_Computing predominant period to investigate earthquake determinism_](https://youtu.be/nhtQgYIXoXU) 
+
 ***Wider engagement and EDI work***
 * I presented my masters work at a [TETHYS seminar](https://www.tethys-talks.com), which is a seminar series aimed at an early undergraduate level audience. You can watch a recording of this talk on youtube [here](https://youtu.be/kzC1ehpVHM4?t=1561) (starts at 26:01). (November 2020). 
 
