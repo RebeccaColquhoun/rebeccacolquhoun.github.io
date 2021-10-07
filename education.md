@@ -10,10 +10,12 @@ I completed my integrated masters in Earth Sciences at the University of Oxford 
 I am now reading for a DPhil (PhD) in Earth Sciences as part of the NERC DTP in Environmental Research. I am funded by a NERC studentship alongside a prestigious Oxford-Radcliffe Scholarship. My research focusses on earthquake determinism, please see the [research](/research) page for more information about my experience and interests. 
 
 ***Prizes and Scholarships***
-* Oxford-Radcliffe Graduate Scholarship.
+* Oxford-Radcliffe Graduate Scholarship (£50 000)
+* NERC Studentship (£50 000)
 * Seismological Society of America [Travel Grant](https://www.seismosoc.org/annual-meeting/ssa-2021-travel-grants-announced/) for 2021 Annual Meeting (one of 14 awardees).
 * Seismological Society of America [Student Presentation Award](https://www.seismosoc.org/awards/student-awards/) for my talk at the 2021 meeting (one of 19 awardees).
 * Department of Earth Sciences EEDI prize
+* BGA Gray-Milne Bursary (for Travel to Cargese earthquake school) (£500)
 
 ***Teaching***
 
