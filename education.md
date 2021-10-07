@@ -20,8 +20,11 @@ I am now reading for a DPhil (PhD) in Earth Sciences as part of the NERC DTP in 
 ***Teaching***
 
 The Oxford undergraduate course has a large component of small group teaching in tutorials. I gave tutorials to a number of students (groups of 2--4) in: 
-* 1st year Mathematics (fundamentals of calculus, differential equations, linear algebra and scientific computing)
-* 1st year Physics (mechanics and thermodynamics)
+* 1st year Mathematics (fundamentals of calculus, differential equations, linear algebra and scientific computing) (2020-2021, 2021-2022)
+* 1st year Physics (mechanics and thermodynamics) (2020-2021)
+
+I am a graduate demonstrator for practicals in:
+* 2nd year Earthquakes and Faulting (2021-2022)
 
 ## Undergraduate
 
