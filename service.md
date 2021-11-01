@@ -8,12 +8,7 @@ I convened and chaired a panel on _LGBTQ+ Voices and Communities: Enabling Inclu
 I co-led a departmental group following the [URGE](urgeoscience.org) curriculum, including reading on anti-racism and producing a number of 'deliverables' (policies, memos, white-papers and resources) for the department. We adjusted the curriculum to ensure that it was relevant to our UK based department. As part of this I facilitated fortnightly discussion sessions for a group from across the department including undergraduates, postgraduates, post-docs and faculty. For this work I was awarded the departmental EEDI prize. 
 
 ## Positions of Responsibility
-I am passionate about equality, diversity and inclusion and served on the Oxford Students Union Disability Campaign for 3 years.
-+ April 2019 – June 2020 – Treasurer 
-+	April 2017 – April 2019 – Communications Officer 
-+ January 2017 – April 2017 – Socials Officer
-
-I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
+I am passionate about equality, diversity and inclusion. I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
 
 Within a departmental setting, I:
 +	January 2021 – present – graduate student rep on Athena Swan self-assessement team
@@ -33,6 +28,11 @@ At Oxford, departments fall into groups which are known as divisions. I was appo
 + April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard. 
 
 Within my college, I was elected the disabled students and accessibility officer in February 2021.
+
+During my undergraduate degree, I served on the Oxford Students Union Disability Campaign for 3 years.
++ April 2019 – June 2020 – Treasurer 
++	April 2017 – April 2019 – Communications Officer 
++ January 2017 – April 2017 – Socials Officer
 
 ## Outreach
 Outreach Resources
