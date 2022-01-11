@@ -13,14 +13,18 @@ title: Sharing my work
 
 * I gave a short talk (3 minutes) at the 2021 Wessex Congress. Talk title: [_Computing predominant period to investigate earthquake determinism_](https://youtu.be/nhtQgYIXoXU) 
 
-* I gave a poster presentation at the SCEC 2021: _Using foreshocks, aftershocks and sequences to probe earthquake nucleation_
+* I gave a poster presentation at the SCEC 2021 Annual Meeting: _Using foreshocks, aftershocks and sequences to probe earthquake nucleation_
 
 * I gave a poster presentation at the 2021 BGA PGRiP meeting: _Computing predominant period to investigate earthquake determinism_
 
-* I gave a poster presentation at the Cargese Earthquakes School: _Using foreshocks, aftershocks and sequences to probe earthquake nucleation_
+* I gave an in-person poster presentation at the Cargese Earthquakes School: _Using foreshocks, aftershocks and sequences to probe earthquake nucleation_
+
+* I gave a talk at the COMET Student Meeting 2022: _Investigating earthquake determinism with seismograms_
 
 ***Wider engagement and EDI work***
-* I presented a poster, and gave a talk at the 2021 oSTEM Conference: _Can we tell an earthquake's future: investigating earthquake determinism_
+* I presented a poster, and gave a talk at the 2021 oSTEM Conference: _Can we tell an earthquake's future: investigating earthquake determinism_ (November 2022)
+
+* I gave a talk at the 2022 LGBTQ+ STEMinar _Telling an earthquake's future: how soon can we tell an earthquake's magnitude_ (January 2022)
 
 * I presented my masters work at a [TETHYS seminar](https://www.tethys-talks.com), which is a seminar series aimed at an early undergraduate level audience. You can watch a recording of this talk on youtube [here](https://youtu.be/kzC1ehpVHM4?t=1561) (starts at 26:01). (November 2020). 
 
