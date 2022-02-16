@@ -22,7 +22,7 @@ title: Sharing my work
 * I gave a talk at the COMET Student Meeting 2022: _Investigating earthquake determinism with seismograms_
 
 ***Wider engagement and EDI work***
-* I presented an introduction to earthquakes, and some of my results to the University College Graduate Martlets Seminar _Earthquakes: how, why and telling their futures_. The audience was composed of graduate students from a diverse range of disciplines with varying levels of scientific understanding. (February 2022)
+* I presented a ~30 minute introduction to earthquakes, and some of my results to the University College Graduate Martlets Seminar _Earthquakes: how, why and telling their futures_. The audience was composed of graduate students from a diverse range of disciplines with varying levels of scientific understanding. (February 2022)
  
 * I gave a talk at the 2022 LGBTQ+ STEMinar _Telling an earthquake's future: how soon can we tell an earthquake's magnitude_ (January 2022)
 
