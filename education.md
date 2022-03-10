@@ -19,7 +19,7 @@ I am now reading for a DPhil (PhD) in Earth Sciences as part of the NERC DTP in 
 
 ***Teaching***
 
-The Oxford undergraduate course has a large component of small group teaching in tutorials. I gave tutorials to a number of students (groups of 2--4) in: 
+The Oxford undergraduate course has a large component of small group teaching in tutorials. Giving tutorials involves setting questions and marking and giving feedback on work, including through writing termly reports to their main college tutors. I gave tutorials to a number of students (groups of 2--4) in: 
 * 1st year Mathematics (fundamentals of calculus, differential equations, linear algebra and scientific computing) (2020-2021, 2021-2022)
 * 1st year Physics (mechanics and thermodynamics) (2020-2021)
 * 2nd year Earthquakes and Faulting (2021-2022)
@@ -49,23 +49,5 @@ MEarthSci Earth Sciences, University of Oxford (2016-2020)
 * Made a scholar of Worcester College for outstanding academic performance (June 2017).
 
 
-## School
-
-Headington School, Oxford (2009-2016)
-
-A-Level's (2016)
-* Sixth Form Acadmic Scholarship 
-* Physics -- A
-* Chemistry -- A
-* Mathematics -- A
-* Further Mathematics -- A
-* EPQ -- A* 
-
-AS Levels (2015)
-* Computing -- A
-
-GCSE's (2014)
-* 10 A* (Mathematics, Chemistry, Physics, Biology, Computing, Astronomy, French, German, English Language, English Literature), 1A (Geography)
-* FSMQ - A
 
 
