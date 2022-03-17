@@ -14,6 +14,8 @@ In March 2022, I participated in a panel on _Life After School: Neurodiversity a
 ## Positions of Responsibility
 I am passionate about equality, diversity and inclusion. I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
 
+I am co-founder and co-student-lead of the LGBTQ+ affinity group in the department. 
+
 Within a departmental setting, I:
 +	January 2021 – present – graduate student rep on Athena Swan self-assessement team
 +	October 2020 – present – graduate rep on department Workplace and Equality committee. 
@@ -31,7 +33,7 @@ At Oxford, departments fall into groups which are known as divisions. I was appo
 + October 2020 – present – Graduate student representative on MPLS EDI steering group. Member of the LGBTQ+ and disability working groups. 
 + April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard. 
 
-Within my college, I was elected the MCR (graduate common room) disabled students and accessibility officer in February 2021.
+Within my college, I was elected the MCR (graduate common room) disabled students and accessibility officer in February 2021, and re-appointed in March 2022. In this role I provide support and advocacy for disabled students in my college. This includes running social events (e.g. DisabilTeas) and events to help people understand the support and resources available to them. 
 
 During my undergraduate degree, I served on the Oxford Students Union Disability Campaign for 3 years.
 + April 2019 – June 2020 – Treasurer 
