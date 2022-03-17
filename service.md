@@ -9,6 +9,8 @@ I co-led a departmental group following the [URGE](urgeoscience.org) curriculum,
 
 In January 2022, I co-presented the internal department 'brown-bag' seminar, on making fieldwork more equitable. 
 
+In March 2022, I participated in a panel on _Life After School: Neurodiversity and Disabilities Panel Discussion + Q&A_, discussing my experiences of being neurodiverse at university, how they accessed support, what challenges they faced and what advice they would pass on. 
+
 ## Positions of Responsibility
 I am passionate about equality, diversity and inclusion. I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
 
