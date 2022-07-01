@@ -21,6 +21,8 @@ title: Sharing my work
 
 * I gave a talk at the COMET Student Meeting 2022: _Investigating earthquake determinism with seismograms_
 
+* I gave a talk at EGU22: _Using seismograms to investigate earthquake determinism_ (top 20% of student presentations in program group)
+
 ***Wider engagement and EDI work***
 * I presented a ~30 minute introduction to earthquakes, and some of my results to the University College Graduate Martlets Seminar _Earthquakes: how, why and telling their futures_. The audience was composed of graduate students from a diverse range of disciplines with varying levels of scientific understanding. (February 2022)
  
