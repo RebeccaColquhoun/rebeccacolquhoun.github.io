@@ -1,3 +1,8 @@
+---
+layout: page
+title: Teaching 
+---
+
 # Teaching Roles
 
 Teaching now forms the main component of my job as a Teaching Fellow in Geophysics and Quantitative Geoscience, with a particular interest in how we best teach maths and programming to students who may not have directly chosen to study them! I'm also interested in how we make education, including programming education, more accessible and inclusive for everyone.
