@@ -5,6 +5,7 @@ title: Sharing my work
 
 ***Thesis***
 * Colquhoun, R. L. (2025). How do earthquakes start? A seismological investigation into earthquake nucleation and determinism [PhD thesis]. University of Oxford. [https://ora.ox.ac.uk/objects/uuid:3aa89393-c988-424d-a7ab-29494393b3e7]
+  
 ***Education and EEDI***
 *	Colquhoun. Evolving as a GTA: Teaching, Performing and Identity.  Journal of PGR Pedagogic Practice, Volume 5, Issue 1, p 39-45. 2025. https://doi.org/10.31273/5p663e15 
 *	Colquhoun et al. Reflections on Practices to Foster Inclusion and Accessibility in Programming Teaching. Teaching Programming Across Disciplines, Eds. Blankinship et al. (2026)
