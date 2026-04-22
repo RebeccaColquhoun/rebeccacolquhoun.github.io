@@ -7,26 +7,36 @@ I completed my integrated masters in Earth Sciences at the University of Oxford 
 
 ## Postgraduate
 
-I am now reading for a DPhil (PhD) in Earth Sciences as part of the NERC DTP in Environmental Research. I am funded by a NERC studentship alongside a prestigious Oxford-Radcliffe Scholarship. My research focusses on earthquake determinism, please see the [research](/research) page for more information about my experience and interests. I passed my Transfer of Status in January 2022. 
+I completed my DPhil (PhD) in Earth Sciences as part of the NERC DTP in Environmental Research. I was funded by a NERC studentship alongside a prestigious Oxford-Radcliffe Scholarship. My research focusses on earthquake determinism, please see the [research](/research) page for more information about my experience and interests. I completed my DPhil in June 2025. 
 
 ***Prizes and Scholarships***
-* Oxford-Radcliffe Graduate Scholarship (£50 000)
-* NERC Studentship (£50 000)
-* Seismological Society of America [Travel Grant](https://www.seismosoc.org/annual-meeting/ssa-2021-travel-grants-announced/) for 2021 Annual Meeting (one of 14 awardees).
-* Seismological Society of America [Student Presentation Award](https://www.seismosoc.org/awards/student-awards/) for my talk at the 2021 meeting (one of 19 awardees).
-* Department of Earth Sciences EEDI prize
-* BGA Gray-Milne Bursary (for Travel to Cargese earthquake school) (£500)
 
-***Teaching***
+_Academic Awards_
+*	2022 – University of Oxford Doctoral Training Centre: NERC DTP Excellence Prize
+*	2021 – Seismological Society of America [Student Presentation Award](https://www.seismosoc.org/awards/student-awards/) for my talk at the 2021 meeting (one of 19 awardees).
+*	2020 – Schlumberger Prize for Outstanding Performance in Geophysics (£300)
+*	2017 – Academic Scholarship from Worcester College, Oxford
+*	2017 – Academic Prize from Worcester College, Oxford
+_Grants_
+*	2020—2024 – Oxford-Radcliffe Scholarship, NERC DTP in Environmental Research PhD Funding
+*	2023 – Royal Astronomical Society Travel Grant (£1000) 
+*	2023 – NASA InSight Seers Travel Grant funded by UK Space Agency (£700)
+*	2023 – University College Travel Grants (£500, £500)
+*	2022 – AGU/NSF travel grant to attend the Second National Convention on Racism in Geoscience (£2000)
+*	2021 – British Geophysical Association Gray-Milne Travel Bursary (£500)
+*	2021 – Seismological Society of America [Travel Grant](https://www.seismosoc.org/annual-meeting/ssa-2021-travel-grants-announced/) for 2021 Annual Meeting (one of 14 awardees).
 
-The Oxford undergraduate course has a large component of small group teaching in tutorials. Giving tutorials involves setting questions and marking and giving feedback on work, including through writing termly reports to their main college tutors. I gave tutorials to a number of students (groups of 2--4) in: 
-* 1st year Mathematics (fundamentals of calculus, differential equations, linear algebra and scientific computing) (2020-2021, 2021-2022)
-* 1st year Physics (mechanics and thermodynamics) (2020-2021)
-* 2nd year Earthquakes and Faulting (2021-2022)
-* 2nd year Geophysical Methods (seismology) (2021-2022)
 
-I am a graduate demonstrator for practicals in:
-* 2nd year Earthquakes and Faulting (2021-2022)
+**** EEDI awards ****
+•	2025—Imperial Department of Earth Science and Engineering Values Award (May to October)
+•	2025—Oxford MPLS EDI Award Best Team Effort
+•	2025—Oxford MPLS Outstanding ED&I Student Champion, Commended
+•	2024 – Imperial Department of Earth Science and Engineering Values Award (November to April)
+•	2023 – Oxford Department of Earth Sciences EEDI Prize
+•	2022 – Highly Commended (top 3) Student EDI Champion: University of Oxford Vice-Chancellor’s Diversity Award
+•	2022 – Leader of winning Unlearning Racism in Geoscience Project in the Inclusive Culture Project Category in University of Oxford Vice-Chancellor’s Diversity Award
+•	2021 – Oxford Department of Earth Sciences EEDI Prize
+
 
 ## Undergraduate
 
