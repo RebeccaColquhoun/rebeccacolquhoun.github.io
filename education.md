@@ -17,6 +17,7 @@ _Academic Awards_
 *	2020 – Schlumberger Prize for Outstanding Performance in Geophysics (£300)
 *	2017 – Academic Scholarship from Worcester College, Oxford
 *	2017 – Academic Prize from Worcester College, Oxford
+  
 _Grants_
 *	2020—2024 – Oxford-Radcliffe Scholarship, NERC DTP in Environmental Research PhD Funding
 *	2023 – Royal Astronomical Society Travel Grant (£1000) 
@@ -27,7 +28,7 @@ _Grants_
 *	2021 – Seismological Society of America [Travel Grant](https://www.seismosoc.org/annual-meeting/ssa-2021-travel-grants-announced/) for 2021 Annual Meeting (one of 14 awardees).
 
 
-**** EEDI awards ****
+_EEDI awards_
 •	2025—Imperial Department of Earth Science and Engineering Values Award (May to October)
 •	2025—Oxford MPLS EDI Award Best Team Effort
 •	2025—Oxford MPLS Outstanding ED&I Student Champion, Commended
