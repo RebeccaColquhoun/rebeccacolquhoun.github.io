@@ -9,41 +9,31 @@ Teaching now forms the main component of my job as a Teaching Fellow in Geophysi
 *	2024—2025 Academic Year
     *	Conducted a systematic review of the geophysics curriculum.
     *	Courses taught:
-  2nd year Field Geophysics (contributor, Summer 2025; 46 students)
-*	Co-delivered London-based teaching including use of a range of geophysical analysis software and supported students with coursework. Marked coursework, notebooks and presentations.  
-  2nd year introduction to Independent Geophysics Project (contributor, Summer 2025, 26 students)
+        *	2nd year Field Geophysics (contributor, Summer 2025; 46 students, Co-delivered London-based teaching including use of a range of geophysical analysis software and supported students with coursework. Marked coursework.)
+       *	2nd year introduction to Independent Geophysics Project (contributor, Summer 2025, 26 students)
     *	Other responsibilities:
-  Worked with undergraduate admissions team on open days, taster days and outreach.
+        *	 Worked with undergraduate admissions team on open days, taster days and outreach.
 *	2025—2026 Academic Year
     *	Courses taught:
-  Y3 60001b Independent Geophysics Project (coordinator, Autumn 2025; 28 students)
-  Y2 50018 Numerical Methods (contributor (taught Linear Algebra), Spring 2026; 61 students)
-  Y3/4 60041 Data Science and Machine Learning (contributor, Spring 2026; 57 students)
-  Y3/4 70155 Planetary Physics (contributor (taught planetary magnetism), Spring 2026; 38 students)
-  Y2 50006 Field Geophysics (contributor, Spring + Summer 2025; 62 students)
+          *	Y3 60001b Independent Geophysics Project (coordinator, Autumn 2025; 28 students)
+          *	Y2 50018 Numerical Methods (contributor (taught Linear Algebra), Spring 2026; 61 students)
+          *	Y3/4 60041 Data Science and Machine Learning (contributor, Spring 2026; 57 students)
+          *	Y3/4 70155 Planetary Physics (contributor (taught planetary magnetism), Spring 2026; 38 students)
+          *	Y2 50006 Field Geophysics (contributor, Spring + Summer 2025; 64 students)
     *	Other responsibilities:
-  Personal tutor (2025-2026: 15 students).
-  EEDI committee member. 
-  Athena SWAN SAT group member.
-  Worked with undergraduate admissions team on interviews and open days.
-  Assessor for 3 MSci projects. 
-  City SPARC outreach.
+          *	Personal tutor (2025-2026: 15 students).
+          *	EEDI committee member. 
+          *	Athena SWAN SAT group member.
+          *	Worked with undergraduate admissions team on interviews and open days.
+          *	Assessor for 3 MSci projects. 
+          *	City SPARC outreach.
 ### SEPTEMBER 2023—JUNE 2024 Teaching Fellow in Geophysics
 *	Courses taught:
-    *	1st year statistics
-  Probability and probability distributions, statistical tests, correlation and linear regression.
-  Redesigned course to be in Python. Wrote new problem sheets and worked answer keys.
-    *	2nd year Applied Geophysics
-  Edited and delivered course, designed and marked examination.
-  Added a group presentation element to the course in response to student feedback. 
-    *	2nd year Field Geophysics
-  Taught on field trip with particular focus on the refraction seismology technique. 
-  Co-delivered London-based teaching including use of a range of geophysical analysis software and supported students with coursework. Marked coursework, notebooks and presentations.  
-  Organised speakers from the Centre for Academic English and Careers Service.
-    *	3rd year Independent Geophysics Project
-  Co-supervised projects. Marked and gave comprehensive feedback on each report. 
-    *	3rd/4th year Planetary Physics
-  Developed a new lecture on planetary magnetic fields. Contributed to writing and marking exam.
+    *	1st year statistics (Probability and probability distributions, statistical tests, correlation and linear regression. Redesigned course to be in Python. Wrote new problem sheets and worked answer keys.)
+    *	2nd year Applied Geophysics (Edited and delivered course, designed and marked examination. Added a group presentation element to the course in response to student feedback.)
+    *	2nd year Field Geophysics (Taught on field trip with particular focus on the refraction seismology technique. Co-delivered London-based teaching including use of a range of geophysical analysis software and supported students with coursework. Marked coursework, notebooks and presentations. Organised speakers from the Centre for Academic English and Careers Service.)
+    *	3rd year Independent Geophysics Project (Co-supervised projects. Marked and gave comprehensive feedback on each report.)
+    *	3rd/4th year Planetary Physics (Developed a new lecture on planetary magnetic fields. Contributed to writing and marking exam.)
     *	Marking of 2 MSci projects
 *	Other responsibilities:
     *	Personal tutor (11 students).
