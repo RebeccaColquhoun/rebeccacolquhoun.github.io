@@ -2,6 +2,39 @@
 layout: page
 title: Service + EDI
 ---
+# Imperial College London
+## Committees
+* EEDI committee member (2023-2024, 2025-)
+* Teaching Committee member (2025-)
+* Athena SWAN Self Assessment Team member (2025-2026)
+
+## EEDI awards
+* 2025 — Imperial Department of Earth Science and Engineering Values Award (May to October)
+* 2024 – Imperial Department of Earth Science and Engineering Values Award (November to April)
+
+## Conferences
+* AGU 2026
+  * Co-convenor: Advances and Progress in Fostering a Supportive Scientific Community for All
+  * Co-convenor: Queer Perspectives in Earth and Planetary Sciences
+  * Co-convenor: The Current and Future Legacies of the Queer Community within AGU
+* AGU 2025
+  * Co-convenor: ED11A Advances and Progress in Fostering a Supportive Scientific Community for All (Oral and Poster)
+  * Co-convenor: TH23H Emphasizing the Science of Queer and Allied Scientists (Townhall with 13 invited speakers)
+* ISNBS Symposium co-organiser (2025)
+
+## Events
+* LGBTQ+ history month event (February 2024)
+
+# University of Oxford 
+
+## EEDI awards
+* 2025 — Oxford MPLS EDI Award Best Team Effort
+* 2025 — Oxford MPLS Outstanding ED&I Student Champion, Commended
+* 2023 – Oxford Department of Earth Sciences EEDI Prize
+* 2022 – Highly Commended (top 3) Student EDI Champion: University of Oxford Vice-Chancellor’s Diversity Award
+* 2022 – Leader of winning Unlearning Racism in Geoscience Project in the Inclusive Culture Project Category in University of Oxford Vice-Chancellor’s Diversity Award
+* 2021 – Oxford Department of Earth Sciences EEDI Prize
+  
 ## Talks and Panels
 I convened and chaired a panel on _LGBTQ+ Voices and Communities: Enabling Inclusivity in Environmental Research_ for the Oxford NERC DTP in Environmental Research. This involved contacting and engaging three speakers, coming up with questions, engaging students and ensuring they felt comfortable contributing. I then chaired the 1.5 hour panel. 
 
@@ -14,40 +47,41 @@ In March 2022, I participated in a panel on _Life After School: Neurodiversity a
 In June 2022, I co-organised and chaired the internal department 'brown-bag' seminar, on _Preventing Parachute Science_.
 
 ## Positions of Responsibility
-I am passionate about equality, diversity and inclusion. I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
+I was involved with the student-led audit of BAME diversity and inclusion within the department of Earth Sciences, University of Oxford. I, along with one of the named report authors, wrote about the audit for Astronomy and Geoscience, the magazine of the Royal Astronomical Society, which can be found [here](https://academic.oup.com/astrogeo/article/61/5/5.40/5906544
 
-I am co-founder and co-student-lead of the LGBTQ+ affinity group in the department. 
+I was co-founder and co-student-lead of the LGBTQ+ affinity group in the Department of Earth Sciences, University of Oxford. 
 
 Within a departmental setting, I:
-+	January 2021 – present – graduate student rep on Athena Swan self-assessement team
-+	October 2020 – present – graduate rep on department Workplace and Equality committee. 
-+	October 2020 – present – JCC(G) (Joint Consultative Committee (Graduate)) rep, act as point of communication between 2nd year DPhil students and the department.
++	January 2021 – June 2022 – graduate student rep on Athena Swan self-assessement team
++	October 2020 – June 2025 – graduate rep on department Workplace and Equality committee. 
++	October 2020 – June 2023 – JCC(G) (Joint Consultative Committee (Graduate)) rep, act as point of communication between 2nd year DPhil students and the department.
 +	November 2019 – Convened a focus group on Equality, Diversity and Wellbeing for fellow undergraduates, which has fed into Athena Swan.
 +	April 2018 – June 2020 – served as undergraduate rep on department Workplace and Equality committee. 
 +	June 2019 – Developed and ran the first departmental teaching awards to reward the best lecturer, demonstrator and tutor in the Department of Earth Sciences. Invited to run the awards again in June 2020.  
 + April 2017 – April 2019 – served as undergraduate rep on Earth Sciences teaching committee, which has overall view on teaching provision in the department including courses, lectures and outreach.
 + Oct 2016 – June 2020 – was elected as the JCC(U) (Joint Consultative Committee Undergraduate) rep.
 
-I also represent NERC DTP students within the Oxford DTC (a group of similar doctoral programs). I serve as the LGBTQ+ rep on the DTC EEDI committee. 
+I also represented NERC DTP students within the Oxford DTC (a group of similar doctoral programs). I serve as the LGBTQ+ rep on the DTC EEDI committee. 
 
 At Oxford, departments fall into groups which are known as divisions. I was appointed as the taught students' representative for 1.5 years, representing ~ 4000 students.
 + October 2020 – present – Earth Sciences representative on JGCF (Joint Graduate Consultative Forum), informing the Graduate MPLS rep on issues affecting Earth Sciences students
 + October 2020 – present – Graduate student representative on MPLS EDI steering group. Member of the LGBTQ+ and disability working groups. 
 + April 2019 – August 2020 – Undergraduate Mathematical, Physical and Life Sciences Divisional Rep, attending Divisional Board, Education Committee, redevelopment committees, equality and diversity steering group and Library committee to ensure the student voice is heard. 
 
-Within my college, I was elected the MCR (graduate common room) disabled students and accessibility officer in February 2021, and re-appointed in March 2022. In this role I provide support and advocacy for disabled students in my college. This includes running social events (e.g. DisabilTeas) and events to help people understand the support and resources available to them. 
+Within my college, I was elected the MCR (graduate common room) disabled students and accessibility officer in February 2021, and re-appointed in March 2022. In this role I provided support and advocacy for disabled students in my college. This includes running social events (e.g. DisabilTeas) and events to help people understand the support and resources available to them. 
 
 During my undergraduate degree, I served on the Oxford Students Union Disability Campaign for 3 years.
 + April 2019 – June 2020 – Treasurer 
 +	April 2017 – April 2019 – Communications Officer 
 + January 2017 – April 2017 – Socials Officer
 
-## Outreach
+# Outreach
 Outreach Resources
 * You can see me talking about getting into Earth Sciences [here](https://youtu.be/0d5puC8o-H0). 
 * I wrote about the application process for Oxford Earth Sciences [here](https://carambalache.wordpress.com/2016/09/18/applying-to-oxford-earth-sciences/)
 
 I have worked for a variety of outreach initiatives:
+* Mentor, City SPARC (2025-2026)
 * Mentor, PROJECT ACCESS (2018-2020)
   * Mentored two students through the university application process, helping them make course and university decisions. 
 * Bridging Program Mentor, MPLS Division, University OF Oxford (September 2019)
@@ -56,8 +90,6 @@ I have worked for a variety of outreach initiatives:
   * Provided academic and pastoral support to a group of students attending the UNIQ Outreach and Access Summer School. Designed and led a session on applying to Earth Sciences at Oxford.
 * Open Day Ambassador, Department of Earth Sciences, University of Oxford (July 2017 – September 2020)
   * Conducted tours and spoke to prospective students, answering questions and sharing my own experiences.
-* Secondary teaching work Shadowing, Vyners School, Cheney School (July 2017)
-  * Two sets of three days observing Science, Mathematics and Computer Science lessons.
 * Outreach Days (various), University of Oxford (July 2016 - present)
   * Volunteered at various outreach days at Worcester College and in the wider university. These days included giving application advice and helping students see where their A-level subjects could take them.
 
