@@ -28,17 +28,6 @@ _Grants_
 *	2021 – Seismological Society of America [Travel Grant](https://www.seismosoc.org/annual-meeting/ssa-2021-travel-grants-announced/) for 2021 Annual Meeting (one of 14 awardees).
 
 
-_EEDI awards_
-•	2025—Imperial Department of Earth Science and Engineering Values Award (May to October)
-•	2025—Oxford MPLS EDI Award Best Team Effort
-•	2025—Oxford MPLS Outstanding ED&I Student Champion, Commended
-•	2024 – Imperial Department of Earth Science and Engineering Values Award (November to April)
-•	2023 – Oxford Department of Earth Sciences EEDI Prize
-•	2022 – Highly Commended (top 3) Student EDI Champion: University of Oxford Vice-Chancellor’s Diversity Award
-•	2022 – Leader of winning Unlearning Racism in Geoscience Project in the Inclusive Culture Project Category in University of Oxford Vice-Chancellor’s Diversity Award
-•	2021 – Oxford Department of Earth Sciences EEDI Prize
-
-
 ## Undergraduate
 
 MEarthSci Earth Sciences, University of Oxford (2016-2020)
